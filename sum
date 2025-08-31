@@ -1,0 +1,6 @@
+def main():
+    a=int(input('enter 1st number',))
+    b=int(input('enter 2nd number',))
+    avrg=(a+b)/2
+    print(avrg)
+main()
